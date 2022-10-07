@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Aleut language revitalization"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![IMG_7442](https://user-images.githubusercontent.com/33502930/194635954-1fd17cb4-ed16-4505-b71e-3b452566926d.JPG)
+
+Aleut is a critically endangered (<100 speakers) language originating from the Aleutian Islands of Alaska. Today, Aleuts live in diaspora, and no L1 speakers of Aleut have been produced for at least two generations. I have been working with the Aleut community on a language revitalization project based off of the Where Are Your Keys method for about five years, and am committed to doing so for as long as the foreseeable future, as it is my own heritage language.
