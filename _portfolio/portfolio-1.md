@@ -1,6 +1,6 @@
 ---
 title: "Aleut language revitalization"
-collection: portfolio
+collection: recent
 ---
 
 ![IMG_7442](https://user-images.githubusercontent.com/33502930/194636160-742c47df-3d41-465c-9f26-9cf47e353e0b.JPG)
