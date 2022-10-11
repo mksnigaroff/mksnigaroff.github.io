@@ -3,7 +3,14 @@ title: "Aleut suffixal adjectives and head movement"
 collection: recent
 ---
 
-![IMG_7442](https://user-images.githubusercontent.com/33502930/194636160-742c47df-3d41-465c-9f26-9cf47e353e0b.JPG)
+Aleut nominals can be modified by what I have termed "suffixal adjectives", which appear between the noun stem and case/number morphology.
 
-Aleut is a critically endangered (<100 speakers) language originating from the Aleutian Islands of Alaska. Today, Aleuts live in diaspora, and no L1 speakers of Aleut have been produced for at least two generations. I have been working with the Aleut community on a language revitalization project based off of the Where Are Your Keys method for about five years, and am committed to doing so for as long as the foreseeable future, as it is my own heritage language.
+1. hla-kucha-x̂
+   boy-little-ABS.sg
+   `the little boy'
+   
+However, under certain conditions, these suffixal adjectives can appear deep within the morphology of verbs, between the stem and tense.
 
+In my first qualifying paper, I analyze these suffixal adjectives as adjuncts to NP, but also argue that they are undergoing head movement to appear within the verbal complex. Specifically, I show how a particular interpretation of [Harizanov & Gribanova (2019)](https://web.stanford.edu/~gribanov/downloads/Harizanov-Gribanova-2019.pdf">Harizanov & Gribanova (2019)'s)'s "amalgamation" can grant head movement from adjunct positions, thus producing words as in (2b).
+
+See this link for the full paper, currently in review at NLLT.
