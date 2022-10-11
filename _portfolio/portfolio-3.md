@@ -5,7 +5,9 @@ collection: recent
 
 Aleut nominals can be modified by what I have termed "suffixal adjectives", which appear between the noun stem and case/number morphology.
 
-1. hla-kucha-x̂ \ boy-little-ABS.sg \ `the little boy'
+1. hla-kucha-x̂ \
+   boy-little-ABS.sg
+   `the little boy'
    
 However, under certain conditions, these suffixal adjectives can appear deep within the morphology of verbs, between the stem and tense.
 
