@@ -10,7 +10,7 @@ main:
     #url: /teaching/    
     
   - title: "Recent Research"
-    url: /recent/
+    url: /portfolio/
       
   - title: "CV"
     url: /cv/
