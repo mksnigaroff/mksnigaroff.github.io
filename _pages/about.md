@@ -16,5 +16,3 @@ I did my undergrad at Stanford University, where I was advised by Paul Kiparsky 
 
 
 <span style="color:red">[Please note that this website is under construction.]</span>
-
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
