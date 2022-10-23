@@ -3,7 +3,8 @@ title: "Aleut suffixal adjectives and head movement"
 collection: recent
 ---
 
-![signal-2022-10-11-173619_003 (2)](https://user-images.githubusercontent.com/33502930/195211416-746bc050-8660-4875-a03e-f67cb943c294.jpeg)
+![Untitled-1](https://user-images.githubusercontent.com/33502930/197368237-37bb17f0-e4e5-47cc-aaac-3f8fa8341d53.jpg)
+*(monolingual elicitation in Anchorage, Alaska)*
 
 Aleut nominals can be modified by what I have termed "suffixal adjectives", which appear between the noun stem and case/number morphology.
 
