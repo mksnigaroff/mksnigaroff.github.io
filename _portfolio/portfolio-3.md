@@ -4,7 +4,7 @@ collection: recent
 ---
 
 ![Untitled-1](https://user-images.githubusercontent.com/33502930/197368237-37bb17f0-e4e5-47cc-aaac-3f8fa8341d53.jpg)
-*(monolingual elicitation in Anchorage, Alaska)*
+*(monolingual elicitation with elders in Anchorage, Alaska)*
 
 Aleut nominals can be modified by what I have termed "suffixal adjectives", which appear between the noun stem and case/number morphology.
 
