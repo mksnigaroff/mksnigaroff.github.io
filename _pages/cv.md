@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://drive.google.com/file/d/1SIf4pLscIE666fR5yRN8bCxoxhioFW2h/view?usp=sharing) for my CV as of October 18, 2022.
+Click [here](https://drive.google.com/file/d/1tq340Bc4RiLDdWBwzWihtCKhUsy0RMpv/view?usp=sharing) for my CV as of December 07, 2022.
