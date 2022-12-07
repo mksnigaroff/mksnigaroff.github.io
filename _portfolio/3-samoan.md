@@ -1,5 +1,5 @@
 ---
-title: "Samoan determiners, scope, and quantification"
+title: "Specificity in the Samoan article system"
 collection: recent
 ---
 
