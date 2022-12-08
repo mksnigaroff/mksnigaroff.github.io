@@ -24,4 +24,4 @@ However, under certain conditions, these suffixal adjectives can appear deep wit
 
 In my first qualifying paper, I analyze these suffixal adjectives as adjuncts to NP, but also argue that they are undergoing head movement to appear within the verbal complex. Specifically, I show how a particular interpretation of [Harizanov & Gribanova (2019)](https://web.stanford.edu/~gribanov/downloads/Harizanov-Gribanova-2019.pdf)'s "amalgamation" can grant head movement from adjunct positions, thus producing words as in (3).
 
-See [this link](https://drive.google.com/file/d/1Y8L8jo3XGk0Hs2P6n2CC6I7J7OdF_Qvm/view?usp=sharing) for the full paper, currently in review at *Natural Language & Linguistic Theory*.
+See [this link](https://drive.google.com/file/d/1Y8L8jo3XGk0Hs2P6n2CC6I7J7OdF_Qvm/view?usp=sharing) for the full paper, currently under revision for resubmission at *Natural Language & Linguistic Theory* (comments welcome!).
