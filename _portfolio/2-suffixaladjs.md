@@ -22,6 +22,6 @@ However, under certain conditions, these suffixal adjectives can appear deep wit
    play-**little**-PRES-3.sg \
    `The little one is playing.'
 
-In my first qualifying paper, I analyze these suffixal adjectives as adjuncts to NP, but also argue that they are undergoing head movement to appear within the verbal complex. Specifically, I show how a particular interpretation of [Harizanov & Gribanova (2019)](https://web.stanford.edu/~gribanov/downloads/Harizanov-Gribanova-2019.pdf)'s "amalgamation" can grant head movement from adjunct positions, thus producing words as in (3).
+In my first qualifying paper, I analyze these suffixal adjectives as adjuncts to NP, but also argue that they are undergoing head movement to appear within the verbal complex. Specifically, I show how a particular interpretation of [Harizanov & Gribanova (2019)](https://web.stanford.edu/~gribanov/downloads/Harizanov-Gribanova-2019.pdf)'s "amalgamation" can grant head movement from adjunct and specifier positions, thus producing words as in (3).
 
-See [this link](https://drive.google.com/file/d/1Y8L8jo3XGk0Hs2P6n2CC6I7J7OdF_Qvm/view?usp=sharing) for the full paper, currently under revision for resubmission at *Natural Language & Linguistic Theory* (comments welcome!).
+See [this link](https://mksnigaroff.github.io/files/Snigaroff 2023 - Head movement from non-complements - Evidence from Aleut.pdf) for the full paper, recently accepted for publication with minor revisions at *Natural Language & Linguistic Theory*.
