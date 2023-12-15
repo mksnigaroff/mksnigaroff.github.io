@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://drive.google.com/file/d/1H6PrVnbUGQpDxR-GpCWbcteT9q1ge-P3/view?usp=sharing) for my CV as of August 17th, 2023.
+Click [here](mksnigaroff.github.io/files/CV.pdf) for my CV as of December 15th, 2023.
