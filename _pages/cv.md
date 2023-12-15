@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](mksnigaroff.github.io/files/CV.pdf) for my CV as of December 15th, 2023.
+Click [here](files/CV.pdf) for my CV as of December 15th, 2023.
