@@ -10,4 +10,4 @@ redirect_from:
 <!--- {% include base_path %}
 --->
 
-Click [here](https://mksnigaroff.github.io/files/CV.pdf) for my CV as of September 28th, 2024.
+Click [here](https://mksnigaroff.github.io/files/CV.pdf) for my CV as of December 6th, 2024.
