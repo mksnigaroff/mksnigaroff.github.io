@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Ph.D. candidate in the Linguistics Department at the University of Chicago interested, broadly, in theoretical syntax, semantics, language revitalization, and fieldwork.
+I am a 6th-year Ph.D. candidate in the Linguistics Department at the University of Chicago interested, broadly, in theoretical syntax, semantics, language revitalization, and fieldwork.
 
 I did my undergrad at Stanford University, where I was advised by Paul Kiparsky on my thesis on creating pedagogical materials for a critically endangered Alaska Native language (Aleut). My first qualifying paper at the University of Chicago pertains to head movement and adjunction structures in that same endangered language, and my second qualifying paper analyzes the semantics of what has been called "specificity" in the Samoan article system.
 
