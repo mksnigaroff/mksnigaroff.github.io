@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  -title: "Elicitation Resources"
-   url: /resources/
+  #-title: "Elicitation Resources"
+   #url: /resources/
     
   #- title: "Guide"
    # url: /markdown/
