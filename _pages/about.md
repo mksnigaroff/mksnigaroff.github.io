@@ -17,7 +17,8 @@ I got my B.A. with Honors at Stanford University in Linguistics, where I was adv
 You can find hyperlinks to available papers and presentations on my CV.
 
 ---
-<small>*Recent activity*</small>
+<p><small>*Recent activity*</small></p>
 - <small>**02-09-2026** Gave [a talk](https://mksnigaroff.github.io/files/Snigaroff%202026%20presentation%20-%20Deriving%20the%20force%20and%20flavor%20of%20insubordinate%20clauses%20in%20Aleut.pdf) at Sinn und Bedeutung 31</small>
 - <small>**19-04-2026** [Poster presentation](https://mksnigaroff.github.io/files/CLS%2062%20Poster.pdf) at CLS 62</small>
+
 ---
